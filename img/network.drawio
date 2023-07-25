@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T08:50:30.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LM3za_Z1BYvpFmVL9nDG" version="21.6.5" type="device">
+<mxfile host="app.diagrams.net" modified="2023-07-25T09:15:57.893Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3IIbVy_nphnZNDz9aTlV" version="21.6.5" type="github">
   <diagram name="第 1 页" id="CmcPl1CsmX6Gf_P9_VBr">
     <mxGraphModel dx="934" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yICQoaKI8Lp6KE9foPb2-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFFFCC;sketch=1;gradientColor=none;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="yICQoaKI8Lp6KE9foPb2-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFFFCC;sketch=1;gradientColor=none;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yICQoaKI8Lp6KE9foPb2-8" value="" style="group;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
+        <mxCell id="yICQoaKI8Lp6KE9foPb2-8" value="" style="group;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="30" width="320" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="yICQoaKI8Lp6KE9foPb2-6" value="以太网协议" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="yICQoaKI8Lp6KE9foPb2-8">
+        <mxCell id="yICQoaKI8Lp6KE9foPb2-6" value="&lt;font style=&quot;&quot; face=&quot;Comic Sans MS&quot;&gt;以太网协议&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=none;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="yICQoaKI8Lp6KE9foPb2-8" vertex="1">
           <mxGeometry width="320" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="yICQoaKI8Lp6KE9foPb2-5" value="ip头部" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="yICQoaKI8Lp6KE9foPb2-8">
+        <mxCell id="yICQoaKI8Lp6KE9foPb2-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ip头部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="yICQoaKI8Lp6KE9foPb2-8" vertex="1">
           <mxGeometry x="70" y="20" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="yICQoaKI8Lp6KE9foPb2-4" value="tcp头部" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="yICQoaKI8Lp6KE9foPb2-8">
+        <mxCell id="yICQoaKI8Lp6KE9foPb2-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;tcp头部&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="yICQoaKI8Lp6KE9foPb2-8" vertex="1">
           <mxGeometry x="120" y="50" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yICQoaKI8Lp6KE9foPb2-3" value="http数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="yICQoaKI8Lp6KE9foPb2-8">
+        <mxCell id="yICQoaKI8Lp6KE9foPb2-3" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;http数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" parent="yICQoaKI8Lp6KE9foPb2-8" vertex="1">
           <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qUajyIX2pjDEGxBcLToG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="410" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
